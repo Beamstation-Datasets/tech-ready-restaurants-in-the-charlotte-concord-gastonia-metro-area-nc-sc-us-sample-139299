@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Charlotte-Concord-Gastonia Metro Area, NC-SC, US",
+  "export_job_id": "062ab257-0ef9-4aa7-b075-d37bb2c6b56f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 139299,
+  "location_name": "Charlotte-Concord-Gastonia, NC-SC",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-charlotte-concord-gastonia-metro-area-nc-sc-us-sample-139299",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/139299/beamstation_139299_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
+  "sample_pct": 9.38,
+  "sample_records": 6,
+  "sample_sha256": "b7aa19c162aeea53ec9828135d640d0e01765d2b760f16c2c645617c0d072c47",
+  "sample_size_bytes": 36245,
+  "total_records": 64,
+  "updated_at": "2026-04-08T02:55:43.678575+00:00"
+}

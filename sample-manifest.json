@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7ad3f0f1-2c40-4e59-bcc1-ef380559d169",
+  "export_job_id": "0cee4b70-2f39-4a0b-a509-e0ab56bdb09c",
   "id_short": 139299,
-  "published_at": "2026-04-19T07:45:20Z",
+  "published_at": "2026-04-22T19:16:21Z",
   "repo_name": "tech-ready-restaurants-in-the-charlotte-concord-gastonia-metro-area-nc-sc-us-sample-139299",
   "sample_asset_name": "beamstation_139299_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/139299/beamstation_139299_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "255dca76a77deea04154cd545f164ae4873f75cb280f3ecd2502f74a65367614",
-  "sample_size_bytes": 26945,
-  "total_records": 34
+  "sample_records": 1,
+  "sample_sha256": "dd9fccf98dcdefd9a5d55f8c461ea9b14252021b7471ad4af2e837203d8e9ae3",
+  "sample_size_bytes": 19973,
+  "total_records": 7
 }

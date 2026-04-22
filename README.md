@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Charlotte-Concord-Gastonia Metro Area, NC-SC, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `139299` |
 | Location | Charlotte-Concord-Gastonia, NC-SC |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-15T08:05:38.784157+00:00 |
+| Full dataset size | 7 records |
+| Free sample size | 1 records (14.29%) |
+| Last export | 2026-04-22T15:21:51.915764+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-charlotte-concord-gastonia-metro-area-nc-sc-us-sample-139299/releases/download/sample-latest/beamstation_139299_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
